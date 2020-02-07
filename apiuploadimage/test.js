@@ -49,6 +49,7 @@ for(var i=0;i<a.length;i++){
         }
     }
 }
+console.log(b)
 var hasil
 for (const key in b) {
     if(b[key]===1){
